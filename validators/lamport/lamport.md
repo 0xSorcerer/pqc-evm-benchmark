@@ -1,5 +1,4 @@
 # Lamport OTS
----
 
 Lamport One-Time Signatures (OTS) are considered to be **quantum-resistant** because they solely rely on cryptographic hash functions, which are fundamentally different from the mathematical problems underpinning traditional cryptographic algorithms like ECDSA or RSA. 
 
